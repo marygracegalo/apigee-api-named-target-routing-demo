@@ -6,10 +6,12 @@
     <CreatedBy>marygracegalo@gmail.com</CreatedBy>
     <Description></Description>
     <DisplayName>NR-Demo-1</DisplayName>
-    <LastModifiedAt>1572876868104</LastModifiedAt>
+    <LastModifiedAt>1572884923398</LastModifiedAt>
     <LastModifiedBy>marygracegalo@gmail.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:924e3d3f2d19f88d3698c65217b3a9c1739f7bde22437d474472a1e6acb16b99a29790f207e4a007dfd4046786ffed3f33aad2d4711940adb8c632ccba91662f</ManifestVersion>
-    <Policies/>
+    <ManifestVersion>SHA-512:482193fd918260c34a72e668ef69d6d87d8cb57dc44435ba50d1ceb5f35d1e9d7506e27099391ec5bd343b0603b96d3e649b50840170bf7e97972174fb1497d7</ManifestVersion>
+    <Policies>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>
