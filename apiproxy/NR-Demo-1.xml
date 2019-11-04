@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="NR-Demo-1">
+    <Basepaths>/v1/nr-demo-1</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1572876497197</CreatedAt>
+    <CreatedBy>marygracegalo@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>NR-Demo-1</DisplayName>
+    <LastModifiedAt>1572876868104</LastModifiedAt>
+    <LastModifiedBy>marygracegalo@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:924e3d3f2d19f88d3698c65217b3a9c1739f7bde22437d474472a1e6acb16b99a29790f207e4a007dfd4046786ffed3f33aad2d4711940adb8c632ccba91662f</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
